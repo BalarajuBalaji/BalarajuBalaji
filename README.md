@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💻 Hi, I'm [Your Name] 👋  
-### 🚀 B.Tech | Aspiring Software Developer  
+# 💻 Hi, I'm [Balaraju Balaji] 👋  
+### 🚀 B.Tech | Big Data Analytics  
 
-🌱 Learning **C, C++, Python & Web Development**  
+🌱 Learning **C, C++ & Python**  
 📚 Interested in **Machine Learning, Cloud Computing, and Big Data**  
 ⚡ Fun Fact: _I love problem-solving & hackathons!_  
 
